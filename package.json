@@ -1,5 +1,5 @@
 {
-  "name": "typescript-npm-package-boilerplate",
+  "name": "ts-is-number",
   "version": "1.0.0",
   "description": "The ts-is-number a utility npm package that checks if a given input is a valid finite number or a string that can be converted to a valid finite number.",
   "scripts": {
