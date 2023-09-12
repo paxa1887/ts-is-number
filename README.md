@@ -11,7 +11,7 @@ The ts-is-number a utility npm package that checks if a given input is a valid f
 Here's how you can import and use the isValidNumber function in your TypeScript or JavaScript project:
 
 ```JavaScript
-import isValidNumber from 'is-valid-number';
+import isValidNumber from 'ts-is-number';
 console.log(isValidNumber(123));
 ```
 
